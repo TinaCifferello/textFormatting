@@ -7,16 +7,6 @@
 <link rel="stylesheet" href="style.css">
 <style>
 
-#topLine {
- font-size: 4em;
- text-align: center;
- word-spacing: .5em;
-}
-#secondLine {
- font-size: 2em;
- text-align: center;
- word-spacing: .5em;
-}
 </style>
 </head>
 <body>
